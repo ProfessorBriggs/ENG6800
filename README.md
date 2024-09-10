@@ -7,4 +7,5 @@ This is my Intro to T&T repository using GitHub Desktop and Visual Studio Code.
  - First item
 - Second item
 - Third item
+
 [CV] (Briggs_CV.md)
