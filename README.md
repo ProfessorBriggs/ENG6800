@@ -8,4 +8,4 @@ This is my Intro to T&T repository using GitHub Desktop and Visual Studio Code.
 - Second item
 - Third item
 
-[CV] (Briggs_CV.md)
+[CV](Briggs_CV.md)
