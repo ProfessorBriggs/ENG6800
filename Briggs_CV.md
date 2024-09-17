@@ -248,3 +248,45 @@ Renaissance Terms: Attitude, Bonus, Shading, Practice
 ### 2003	
 - Client: Association of Computing Machinery’s Special Interest Group on Computer Graphics and Interactive Techniques (ACM SIGGRAPH) Electronic Theater and Animation Theater Titles, Role: Lead Digital Artist under the direction of Darin Grant, Digital Domain, SIGGRAPH, San Diego, California 
 
+## CONFERENCE and FESTIVAL PRESENTATIONS
+### Abstracts Peer Reviewed unless otherwise noted.
+
+### 2024	
+- ACM SIGGRAPH 2024, Denver, CO July 28-August 2, 2024. (International Conference): Panel member “Inclusive Community: Accessibility and Neurodiversity in Classroom, Industry and Academia.”
+
+### 2021
+- Lines: Animators, their work, and their stories.”
+
+### 2020	
+- Winter Faculty Development Conference, University of Central Florida, Orlando FL, December 14-15 (Local Conference) “Software Demonstration using Zoom’s share screen feature and remote control of a student’s computer.” 
+
+### 2019	
+- Florida Film Festival, Enzian Theater, Maitland, Florida, April 18, 2019. (Regional Festival) Panel Chair: “Sketches Insane: The Wild World of Independent Animation.”
+
+### 2018	
+- Winter Faculty Development Conference, University of Central Florida, Orlando FL, December 10-12 (Local Conference) “Technology as a Tool for Transparency and Authenticity in Teaching.” 
+
+- Thirtieth Annual Conference for the Society for Animation Studies, “Then, Now, Next”, Concordia University, Montreal, Québec, Canada, June 19, 2018. International Conference. (International Conference) Panel Chair: “Auteurs & Experiments”
+
+- Summer Faculty Development Conference Quality Enhancement Plan (QEP) track, University of Central Florida, Orlando FL, May 7-10 (Local Conference), “Connecting Creatives: Integrative Learning Connections for Film, Television, Digital Media and Animation Students in Georgia’s Entertainment Industry.”
+
+### 2017
+- (Invited Keynote) Creative Trends in Digital Art and Design. Chaoyung University, Taichung, Taiwan. December 22. (International Conference): “Storytelling with Character Animation.”
+
+- Twenty-ninth Annual Conference for the Society for Animation Studies, “…And Yet it Moves!”, University of Padua, Padua, Italy, July 4. (International Conference): “Animating Short Stories: Narrative Techniques and Visual Design.” 
+
+- Winter Faculty Development Conference, University of Central Florida, Orlando FL, December (Local Conference) “Animated Storytelling as a Vehicle for Impact.”
+
+### 2015	
+- Twenty-seventh Annual Conference for the Society for Animation Studies, Beyond the Frame, Canterbury Christ Church University, Canterbury, U.K., July 15. (International Conference): “The Animator’s Oral History Project.”
+
+- Flickering Landscapes Conference Series. November 16. (Local Conference): “Animators Oral History in Central Florida.”
+
+### 2013	
+- Twenty-fifth Annual Conference for the Society for Animation Studies, Redefining Animation, University of Southern California, Los Angeles, California, June 24. (International Conference): The Animation Hall of Fame.”
+
+### 2011	
+- Twenty-third Society for Animation Studies Conference, The Rise of the Creative Economy, University of Indianapolis, Athens, Greece, March 19. (International Conference): “Animation Production at the University.” 83 submissions: 39 accepted: 46% acceptance rate
+
+### 2007	
+- Paper presented at Kalamazoo Animation Festival International, Educators Conference, Kalamazoo, Michigan, May 17. (National Festival): “Teaching the 3D Narrative: Keeping it Simple and Focusing on Character.”
