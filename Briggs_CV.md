@@ -149,7 +149,8 @@ Internal competitive grant to enhance instructional technology resources for stu
 ### 2011 	
 - Faculty Travel Support, SVAD, College of Arts and Humanities, University of Central Florida, Orlando FL ($2000) 
 
-2008	Faculty Sabbatical Grant, Department of Film and Digital Media, Savannah College of Art and Design, Savannah GA ($8000)
+### 2008
+- Faculty Sabbatical Grant, Department of Film and Digital Media, Savannah College of Art and Design, Savannah GA ($8000)
 
 
 ## PUBLICATIONS
@@ -173,4 +174,69 @@ Peer-reviewed, single authored technical book. This book explores the technical 
 - 2025	 Briggs, C. An Essential introduction to Motion Capture for Animator. Burlington: Taylor & Francis.  
 
 - 2025	Cabrera, C. Reel Success: Creating Demo Reels and Animation Portfolios. 2nd Edition. Burlington: Taylor & Francis.  
+
+### Conference Proceedings
+Cabrera, C. (2014). Session details: Art Exhibit. In Proceedings of the 22nd ACM international conference on Multimedia (MM '14). Association for Computing Machinery, New York, NY, USA. DOI:https://doi.org/10.1145/3246822   
+
+## CREATIVE ACTIVITIES
+https://www.imdb.com/name/nm4219202/?ref_=tt_ov_dr 
+
+### Released Game Titles:
+
+- 2023	NFL Pro Era II (VR). MetaQuest [Game]. Status Pro: Seattle. Credit: Motion Capture Engineer. 
+
+- 2022	NFL Pro Era (VR). MetaQuest [Game]. Status Pro: Seattle. Credit: Motion Capture Engineer. 
+
+### Animated Films & Screenings 
+
+- 2023	Briggs. C. Tormented. Associate Producer. 
+	https://www.imdb.com/title/tt29571605/ 
+
+- 2019	Briggs. C. Positive Parenting Fables. Producer, Director, Art Director, Story Editor, Puppet Rig Setup, Vector Animator, Animated Short film. Production of 7 short fables with a team, supervising 8 interns during the creative process. 
+Interns: Dana Barnes, James Chambless, Kirstin Hardin, Alyssa Klapka, Heather Knott, Shawnna Larmond, Danny McCabe, Sara Villa
+	Format: Digital, Runtime: 6:28.
+https://www.youtube.com/channel/UClUjxpvC3ZdUYw7fPOsEDqA 
+
+### CLIENT WORK EXPERIENCE and FIELD RESEARCH 
+
+### 2024	
+- Client: Monkey Chow Productions. Project: Unannounced. Role: Motion Capture Engineer.
+	 
+- 2023	Client: Ghostpunch Games. Project: Risk of Rain 2 Sundered Grove. Role: Motion Capture Engineer/Tech/Animator
+
+-- Client: Status Pro. Project: NFL Pro Era add-on content Role: Motion Capture Engineer.
+
+- 2022	Client: Monkey Chow Productions. Project: Escaping Movements for Action Films. Role: Motion Capture Engineer.
+
+Client: Modus Games. Project: Maximum Football Role: Motion Capture Engineer.
+
+- 2021	Client: Modus Games. Project: Maximum Football Role: Motion Capture Engineer.
+
+	Client: Status Pro. Project: Lamar Jackson Experience (name changed to NFL Pro Era when released in 2022) Role: Motion Capture Engineer.
+
+Consultant: Preparing for accreditation of the Associate of Science Degree in Computer Graphics and Animation (CGA) program and designing the proposed bachelors program in CGA. Khawarizmi International College (KIC), United Arab Emirates. May 9 – July 31. 
+
+- 2019		Client: Monkey Chow Productions. Project: Chosen Witness Role: Motion Capture Engineer.
+https://vimeo.com/492505527/985803dbac?fbclid=IwAR11j4nfawvjUu9GByILhhn5yyJn0AITFhqxhXOqSpy1VMXjOADsZbRyMpY 
+Intern: Hannah Shea
+
+ 	Client: WFTV. The Science of Florida Role: Motion Capture Engineer.
+(2020, January). Motion Capture, Sharks, and More! In The Science of Florida. Orlando, FL: WFTV. https://vimeo.com/446955220/baf15da674 https://vimeo.com/446955220/baf15da674 
+
+- 2018		Field Research: Dreamworks Animation Studios
+
+ 		Field Research: Powerhouse Visual Effects Studios
+
+- 2017	Field Research: Walt Disney Feature Animation Studios, Dreamworks Animation Studios, PIXAR Animation Studios, Industrial Light and Magic, Brazen Studios
+
+ 	Consultant: Development of an animation track within the existing BFA program. Columbus State University, GA. October 19-21.
+
+- 2010		Client: Ernest N. Morial New Orleans Convention Center, Role: Logo Animator.
+		
+ 		Client: Savannah International Animation Festival, Role: Logo Animator.
+
+- 2009		Client: Mark Kistler’s Imagination Station, Role: Animation Crew and Director,
+Renaissance Terms: Attitude, Bonus, Shading, Practice
+
+- 2003	Client: Association of Computing Machinery’s Special Interest Group on Computer Graphics and Interactive Techniques (ACM SIGGRAPH) Electronic Theater and Animation Theater Titles, Role: Lead Digital Artist under the direction of Darin Grant, Digital Domain, SIGGRAPH, San Diego, California 
 
