@@ -9,7 +9,7 @@ Work: 500 W. Livingston Street, Orlando, FL 32801
 - 1996 – 1998		Post- Baccalaureate Study in Painting. University of New Orleans.	
 - 1995, May		B.A. Education, Art K-12, English minor. University of Southwestern Louisiana.	
 
-AREAS OF EXPERTISE AND INTERESTS
+## AREAS OF EXPERTISE AND INTERESTS
 
 ●	Animation
 ●	Rigging for animation
@@ -24,7 +24,7 @@ AREAS OF EXPERTISE AND INTERESTS
 ●	Virtual reality
 ●	Level Design
 
-ACADEMIC APPOINTMENTS
+## ACADEMIC APPOINTMENTS
 
 - 2022, Aug. – present	Professor of Animation and Level Design, Florida Interactive Entertainment Academy, Nicholson School of Communication and Media, College of Sciences, University of Central Florida
 
