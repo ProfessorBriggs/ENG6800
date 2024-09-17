@@ -196,7 +196,7 @@ Interns: Dana Barnes, James Chambless, Kirstin Hardin, Alyssa Klapka, Heather Kn
 	Format: Digital, Runtime: 6:28.
 https://www.youtube.com/channel/UClUjxpvC3ZdUYw7fPOsEDqA 
 
-### CLIENT WORK EXPERIENCE and FIELD RESEARCH 
+### Client Work Experience and Field Research 
 
 ### 2024	
 - Client: Monkey Chow Productions. Project: Unannounced. Role: Motion Capture Engineer.
@@ -209,7 +209,7 @@ https://www.youtube.com/channel/UClUjxpvC3ZdUYw7fPOsEDqA
 ### 2022	
 - Client: Monkey Chow Productions. Project: Escaping Movements for Action Films. Role: Motion Capture Engineer.
 
-Client: Modus Games. Project: Maximum Football Role: Motion Capture Engineer.
+- Client: Modus Games. Project: Maximum Football Role: Motion Capture Engineer.
 
 ### 2021	
 - Client: Modus Games. Project: Maximum Football Role: Motion Capture Engineer.
