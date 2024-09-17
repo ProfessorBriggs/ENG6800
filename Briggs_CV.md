@@ -9,3 +9,18 @@ Work: 500 W. Livingston Street, Orlando, FL 32801
 - 1996 – 1998		Post- Baccalaureate Study in Painting. University of New Orleans.	
 - 1995, May		B.A. Education, Art K-12, English minor. University of Southwestern Louisiana.	
 
+AREAS OF EXPERTISE AND INTERESTS
+
+●	Animation
+●	Rigging for animation
+●	Character animation
+●	Animation production 
+●	Animation filmmaking
+●	Motion capture
+●	Animation history
+●	Narrative storytelling
+●	Visual storytelling
+●	Digital storytelling
+●	Virtual reality
+●	Level Design
+
