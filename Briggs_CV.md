@@ -24,3 +24,23 @@ AREAS OF EXPERTISE AND INTERESTS
 ●	Virtual reality
 ●	Level Design
 
+ACADEMIC APPOINTMENTS
+
+- 2022, Aug. – present	Professor of Animation and Level Design, Florida Interactive Entertainment Academy, Nicholson School of Communication and Media, College of Sciences, University of Central Florida
+
+- 2019, Jan. – present 	Mocap Engineer & Specialist, Studio 500, Florida Interactive Entertainment Academy, University of Central Florida 
+
+- 2022, May – 2022, July	Associate Professor of Animation, Florida Interactive Entertainment Academy, Nicholson School of Communication and Media, College of Sciences, University of Central Florida
+
+- 2015, Aug. –  2022, May	Associate Professor of Emerging Media, School of Visual Arts and Design, College of Arts and Humanities, University of Central Florida
+
+- 2016, Aug. – 2022, July. 	Program Director, Emerging Media MFA – Animation & Visual Effects Track, School of Visual Arts and Design, University of Central Florida 
+Program proposal, development and administration (including managing prospective student inquiries, organizing and reviewing applications, recruitment, marketing and promotion of program in the university and community
+Advisor for all MFA – Animation & Visual Effects Track students.
+
+- 2014, Aug. – 2022, July 	Area Coordinator, Emerging Media BFA - Character Animation Track, School of Visual Arts and Design, University of Central Florida 
+Program administration and development leading to national recognition and high ranking, promotion of program and alumni in the university and community
+
+- 2009, Aug. – 2015, May	Assistant Professor of Digital Media, School of Visual Arts and Design, College of Arts and Humanities, University of Central Florida 
+
+- 2001, June – 2009, June	Professor of Animation, School of Film and Digital Media, Savannah College of Art and Design 
