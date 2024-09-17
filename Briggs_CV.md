@@ -44,3 +44,133 @@ Program administration and development leading to national recognition and high 
 - 2009, Aug. – 2015, May	Assistant Professor of Digital Media, School of Visual Arts and Design, College of Arts and Humanities, University of Central Florida 
 
 - 2001, June – 2009, June	Professor of Animation, School of Film and Digital Media, Savannah College of Art and Design 
+
+## GRANTS, FUNDING, HONORS, and AWARDS
+
+### 2021	
+- Pabst-Steinmentz Foundation Arts & Wellness Innovation Awards. (Co-PIs Tyler Fisher & Dawn Turnage) Fables versus Legends: Storytelling about Vaccines at the Intersection of Ethnography and Epidemiology, Orlando FL ($25,000) 
+Internal competitive grant to build sustainable models for arts and wellness innovation both across the community and UCF campus. Interdisciplinary collaboration and evidence-based community impact will be recognized as guides for building sustainability. 
+
+- Aim High Award, Division of Digital Learning, University of Central Florida, Orlando FL 
+
+- Excellence in Graduate Teaching Award, College of Arts and Humanities, University of Central Florida, Orlando FL ($2000)
+
+### 2020	
+- Faculty Development Grant, Faculty Center for Teaching and Learning, University of Central Florida, Orlando FL ($300) 
+
+- Women of Distinction, Faculty Excellence, University of Central Florida, Orlando FL ($1000)
+
+- University of Central Florida Mid-Career Refresh, Faculty Excellence, University of Central Florida, Orlando FL ($47,000) 
+
+- Research Incentive Award (RIA) College of Arts and Humanities, University of Central Florida, Orlando FL ($5000 plus $5000 to salary)
+
+- Scroll and Quill Society, Faculty Excellence, University of Central Florida, Orlando FL
+
+- Faculty Author Celebration Award, Office of Research, College of Graduate Studies, and Faculty Excellence, University of Central Florida, Orlando FL 
+
+- Best Animation. Award of Merit for Individual Achievement in Directing, Award of Merit for Individual Achievement in Technical Skill, Award of Merit for Individual Achievement in Lighting & Textures, Award of Merit for Individual Achievement in Production Design.
+“Positive Parenting Fables.”  Southern Shorts Awards, Roswell, GA, USA, 2020 Winter Quarter Official Selection. Animation Category.
+
+- Honorable Mention. “Positive Parenting Fables.” Various Artists Independent Film Festival 2019-2020 Fall Quarter Official Selection. Children/Family Category. https://vaiff.com Chicago, IL October 2020. 
+
+- Finalist 	“Positive Parenting Fables.” Hollywood Divine International Film Festival 2020 Official Selection. Children’s Film Category. 
+
+- Submitted	National Science Foundation. (Co-PIs Dr. Daniel McConnell, Dr. Janan Smither, & Dr. Stella Sung) Social Event Perception and the Kinematic Specification of Intention ($503,584)
+
+### 2019	
+- Association Internationale du Film d'Animation (ASIFA) -Hollywood’s Animation Educators Forum Faculty Grant, PI. Behind the Lines Project. Hollywood CA ($4377) 
+External competitive grant designed to provide support for individuals or groups of individuals with reasonable expenditures associated with research, scholarly activity or creative projects in the field of animation.
+https://www.asifa-hollywood.org/third-annual-animation-educators-forum-faculty-grants-are-awarded/ 
+
+- Faculty Travel Support, SVAD, College of Arts and Humanities, University of Central Florida, Orlando FL ($2500). 
+
+- Women’s History Month Awardee, Faculty Excellence, University of Central Florida, Orlando FL 
+
+- Telecommunications for Orlando Tech Center Building 500, Technology Fee Grant, SVAD, College of Arts and Humanities, University of Central Florida, Orlando FL ($551,254) 
+Internal competitive grant to enhance instructional technology resources for students and faculty. 
+
+- Course Innovation Grant, Faculty Center for Teaching and Learning, University of Central Florida, Orlando FL ($500) 
+
+- Creating Healthy Communities: Arts + Public Health Florida Conference, University of Florida, scholarship to attend conference in Orlando, FL ($160)
+
+### 2018	
+- Pabst-Steinmentz Foundation Arts & Wellness Innovation Awards. (Co-PIs Tyler Fisher & Kimberly Renk) Positive Parenting via Animated Fables Project, Orlando FL ($25,000) 
+		https://news.cah.ucf.edu/news/positive-parenting-fables/ 
+
+ - Faculty Author Celebration Award, Office of Research, College of Graduate Studies, and Faculty Excellence, University of Central Florida, Orlando FL 
+
+ - Excellence in Undergraduate Teaching Award, College of Arts and Humanities, University of Central Florida, Orlando FL ($2000)
+
+ - Faculty Travel Support, SVAD, College of Arts and Humanities, University of Central Florida, Orlando FL ($1250)
+
+ - Research Mentoring Opportunity (Mentor: Dr. Stella Sung), Office of Research and Commercialization, University of Central Florida, Orlando FL ($3000) 
+
+ - Honorarium, College of Central Florida. ($300)
+
+ - Faculty Development Grant, Faculty Center for Teaching and Learning, University of Central Florida, Orlando FL ($500) 
+
+ - Faculty Development Grant, Faculty Center for Teaching and Learning, University of Central Florida, Orlando FL ($800) 
+
+ - Course Innovation Grant, Faculty Center for Teaching and Learning, University of Central Florida, Orlando FL ($500) 
+
+### 2017
+- Honorarium and Travel Support, Chaoyung University, Taichung, Taiwan. ($4000)
+
+- Teaching Incentive Program Award (TIP) College of Arts and Humanities, University of Central Florida, Orlando FL ($5000 plus $5000 to salary)
+
+- Faculty Travel Support, SVAD, College of Arts and Humanities, University of Central Florida, Orlando FL ($2800)  
+
+- Honorarium and Travel Support, Columbus State University, Columbus GA. ($2500)
+
+- Center for Emerging Media classrooms 306 and 307 Upgrades, PI. Technology Fee Grant, SVAD, College of Arts and Humanities, University of Central Florida, Orlando FL ($308,897). 
+Internal competitive grant to enhance instructional technology resources for students and faculty. 
+
+- Faculty Development Grant, Faculty Center for Teaching and Learning, University of Central Florida, Orlando FL ($500) 
+
+### 2015 	
+- Faculty Travel Support, SVAD, College of Arts and Humanities, University of Central Florida, Orlando FL ($2200) 
+
+- Travel GAP Grant, United Faculty of Florida, University of Central Florida, Orlando FL ($500) 
+
+- Honorarium. Life@UCF. ($100)
+
+### 2014	
+- Internal Grant: PI Competitive Grant Program, LIFE @ University of Central Florida. ($1,000) 
+
+- Research Incentive Seed Funding Program, PI. SVAD, College of Arts and Humanities, University of Central Florida. Animator’s Oral History Project. Orlando FL ($12500)
+Internal competitive grant to support CAH pilot studies and projects in research areas that have the potential for future external grant funding or projects that have outstanding commercial potential.
+
+-  Center for Emerging Media classrooms 303, 306, and 307 Upgrades, PI. Technology Fee Grant, ($153,750) 
+Internal competitive grant to enhance instructional technology resources for students and faculty. 
+
+### 2013	
+- Audience Favorite Award. “Put to Rest.” California International Animation Festival. 
+
+### 2011 	
+- Faculty Travel Support, SVAD, College of Arts and Humanities, University of Central Florida, Orlando FL ($2000) 
+
+2008	Faculty Sabbatical Grant, Department of Film and Digital Media, Savannah College of Art and Design, Savannah GA ($8000)
+
+
+## PUBLICATIONS
+Name changed to Briggs from Cabrera in 2016.
+
+Books (n=4)
+- 2021	 Briggs, C. An Essential introduction to Maya Character Rigging. 2nd Edition. Burlington: Taylor & Francis.  474 pages. 500 figures.
+ 	Peer-reviewed, single authored technical book. This fully re-written second edition book explores the technical and practical approaches to Autodesk Maya 2021 software with original contributions of software techniques to the field of animation.
+
+- 2019	Briggs, C. Animating Short Stories: Narrative Techniques and Visual Design. London: Bloomsbury 	Academic.  272 pages. 300 figures.	
+2021 Contract for Chinese translation by Tsinghua University Press. Peer-reviewed, single authored scholarly book, solo author. This book explores both the theory and practice of story and visual development for the animated short narrative film.
+	
+- 2013	Cabrera, C. Reel Success: Creating Demo Reels and Animation Portfolios. Burlington: Taylor & Francis.  224 pages. 98 figures. ISBN: 978-0240821023
+Peer-reviewed, single authored scholarly book, solo author. This book explores both the theory and practice of portfolio development and self-promotion for gainful employment in the animation industry.
+
+- 2008	Cabrera, C. An Essential Introduction to Maya Character Rigging.  Oxford: Elsevier Ltd. 408 pages. 430 figures. ISBN: 978-0240520827 * Chapters 1-4 selected for inclusion and republished in (2009). Game Art Complete. Oxford: Elsevier Lt. 
+Peer-reviewed, single authored technical book. This book explores the technical and practical approaches to Autodesk Maya 2008 software with original contributions of software techniques to the field of animation.
+
+### Books Under Contract:
+
+- 2025	 Briggs, C. An Essential introduction to Motion Capture for Animator. Burlington: Taylor & Francis.  
+
+- 2025	Cabrera, C. Reel Success: Creating Demo Reels and Animation Portfolios. 2nd Edition. Burlington: Taylor & Francis.  
+
