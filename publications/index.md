@@ -1,4 +1,4 @@
-# Publications
+# PUBLICATIONS
 
 [click here for Maya Character Rigging 2nd ed.](https://www.routledge.com/An-Essential-Introduction-to-Maya-Character-Rigging/Briggs/p/book/9781138777989?gclsrc=aw.ds&utm_source=cjaffiliates&utm_medium=affiliates&cjevent=d75cdc49671d11ec839803340a82b82d)
 
