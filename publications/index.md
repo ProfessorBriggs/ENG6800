@@ -3,12 +3,12 @@
 ![Photo of Maya Character Rigging 2nd ed](MCR2ed.webp)
 
 
-[[click here for Animated Storytelling](https://www.bloomsbury.com/us/animating-short-stories-9781472570154/)
+[click here for Animated Storytelling](https://www.bloomsbury.com/us/animating-short-stories-9781472570154/)
 
 ![Photo of Animated Storytelling](AnimatedStorytelling.webp)
 
 
-[[click here for Reel Success](https://www.routledge.com/Reel-Success-Creating-Demo-Reels-and-Animation-Portfolios/Cabrera/p/book/9780240821023)
+[click here for Reel Success](https://www.routledge.com/Reel-Success-Creating-Demo-Reels-and-Animation-Portfolios/Cabrera/p/book/9780240821023)
 
 ![Photo of Reel Success](ReelSuccess.webp)
 
