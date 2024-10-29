@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# CURRICULUM VITAE
 # Cheryl Briggs
 
 ## Professor
