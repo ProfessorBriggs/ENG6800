@@ -24,5 +24,3 @@ I am currently on the Board of Directors for the Animation Hall of Fame, the Edu
 
 My favorite animated quote:
 Dory: [singing] Just keep swimming. Just keep swimming. Just keep swimming, swimming, swimming. What do we do? We swim, swim
-
-
