@@ -1,4 +1,6 @@
+# Curriculum Vitae
 # Cheryl Briggs
+
 ## Professor
 Cell: 912.661.3894   E-Mail: cheryl.briggs@ucf.edu  www.cherylbriggs.com
 Work: 500 W. Livingston Street, Orlando, FL 32801
