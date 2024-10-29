@@ -6,13 +6,16 @@ This is my Intro to T&T repository using GitHub Desktop and Visual Studio Code.
 
 ### Contact
 Email: animator@ucf.edu
+
 Office: Communication and Media Building #150, Downtown Campus
 
 ### Follow Me
 
-[LinkedIn] (https://www.linkedin.com/in/cherylc1/)
-[YouTube] (https://www.youtube.com/@themayamagician595)
-[GitHub] (https://github.com/ProfessorBriggs) 
+[LinkedIn](https://www.linkedin.com/in/cherylc1/)
+
+[YouTube](https://www.youtube.com/@themayamagician595)
+
+[GitHub](https://github.com/ProfessorBriggs) 
 
 ### About Me
 [CV](Briggs_CV.md)
