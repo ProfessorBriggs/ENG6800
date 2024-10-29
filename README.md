@@ -2,7 +2,7 @@
 ## Professor
 This is my Intro to T&T repository using GitHub Desktop and Visual Studio Code.
 
-![Photo of Cheryl Briggs](bio_CherylBriggs.jpg)
+![Photo of Cheryl Briggs](HNL.jpg)
 
 ### Contact
 Email: animator@ucf.edu
