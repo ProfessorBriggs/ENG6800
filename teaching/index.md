@@ -1,7 +1,7 @@
 # TEACHING 
 
 ## Teaching Interests:
-- Curriculum development and instruction including all aspects of Digital Animation and Film Production: story development, storyboarding, character and production design, modeling, texturing, character rigging, lighting, set dressing, camera layout, character animation, visual effects, compositing, editing.
+Curriculum development and instruction in Game Animation and Level design as well as all aspects of Digital Animation and Film Production: story development, storyboarding, character and production design, modeling, texturing, character rigging, lighting, set dressing, camera layout, character animation, visual effects, compositing, and editing.
 
 ## Courses Taught at the University of Central Florida:
 
